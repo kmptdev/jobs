@@ -5,8 +5,8 @@ Kent and Medway NHS and Social Care Partnership Trust
 
 |Apply Now |Job | Start Date | Band | Applications Open | Job Location | Contact |
 |------|------|------|--|----|----|----|
-|[xyz000](tracs)|[Senior Software Developer](jobs/2021/senior-software-developer.md)|xx/xx/2021|7|xx/xx/2021|Sittingborne, Kent|[Chat!](mailto:kmpt.jointhedevteam@nhs.net) |
-|[xyz000](tracs)|[Senior Software Developer](jobs/2021/senior-software-developer.md)|xx/xx/2021|7|xx/xx/2021|Sittingborne, Kent|[Chat!](mailto:kmpt.jointhedevteam@nhs.net)  |
+|[xyz000](tracs)|[Senior Software Developer](2021/senior-software-developer.md)|xx/xx/2021|7|xx/xx/2021|Sittingborne, Kent|[Chat!](mailto:kmpt.jointhedevteam@nhs.net) |
+|[xyz000](tracs)|[Senior Software Developer](2021/senior-software-developer.md)|xx/xx/2021|7|xx/xx/2021|Sittingborne, Kent|[Chat!](mailto:kmpt.jointhedevteam@nhs.net)  |
 
 ## Why work in KMPT Dev Team?
 
