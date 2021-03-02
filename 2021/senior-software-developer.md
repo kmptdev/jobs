@@ -32,7 +32,7 @@ The office is directly next to Sittingbourne train station, and is 5 minutes fro
 - training and development opportunities
 
 ### Contact Us and Apply
-You can find out more at [github KMPTDev](https://www.github.com/kmptdev) and [@KMPTDev](https://www.twitter.com/kmptdev) or email us at [Join the Kmpt Dev Team](mailto:kmpt.jointhedevteam@nhs.net)
+You can find out more at [github KMPTDev](https://www.github.com/kmptdev) and [@KMPTDev](https://www.twitter.com/kmptdev) or email us at [kmpt.jointhedevteam@nhs.net](mailto:kmpt.jointhedevteam@nhs.net)
 
 Ready to jump straight in? [Apply Directly Now](http://kentmedway.healthjobsuk.com/vacancy/2928255)
 
@@ -69,6 +69,6 @@ We develop primarily in C# .NET Core, but are not a "Microsoft only" team. We're
 The team practice agile methodologies, with rapid bi-weekly sprints allowing us to deliver updates regularly and successfully. We deploy to various environments using gated CI/CD.
 
 ### Contact Us and Apply
-You can find out more at [github KMPTDev](https://www.github.com/kmptdev) and [@KMPTDev](https://www.twitter.com/kmptdev) or email us at [Join the Kmpt Dev Team](mailto:kmpt.jointhedevteam@nhs.net)
+You can find out more at [github KMPTDev](https://www.github.com/kmptdev) and [@KMPTDev](https://www.twitter.com/kmptdev) or email us at [kmpt.jointhedevteam@nhs.net](mailto:kmpt.jointhedevteam@nhs.net)
 
 Ready to jump straight in? [Apply Directly Now](http://kentmedway.healthjobsuk.com/vacancy/2928255)
