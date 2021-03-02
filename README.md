@@ -5,8 +5,8 @@ Kent and Medway NHS and Social Care Partnership Trust
 
 |Apply Now |Job | Start Date | Band | Applications Open | Job Location | Contact |
 |------|------|------|--|----|----|----|
-|[2928255](http://kentmedway.healthjobsuk.com/vacancy/2928255)|[Senior Software Developer](2021/senior-software-developer.md)|xx/xx/2021|7|xx/xx/2021|Sittingborne, Kent|[Chat](mailto:kmpt.jointhedevteam@nhs.net) |
-|[2928255](http://kentmedway.healthjobsuk.com/vacancy/2928255)|[Senior Software Developer](2021/senior-software-developer.md)|xx/xx/2021|7|xx/xx/2021|Sittingborne, Kent|[Chat](mailto:kmpt.jointhedevteam@nhs.net)  |
+|[2928255](http://kentmedway.healthjobsuk.com/vacancy/2928255)|[Senior Software Developer](2021/senior-software-developer.md)|TBC|7|01/03/2021|Sittingborne, Kent|[Chat](mailto:kmpt.jointhedevteam@nhs.net) |
+|[2928255](http://kentmedway.healthjobsuk.com/vacancy/2928255)|[Senior Software Developer](2021/senior-software-developer.md)|TBC|7|01/03/2021|Sittingborne, Kent|[Chat](mailto:kmpt.jointhedevteam@nhs.net) |
 
 ## Why work in KMPT Dev Team?
 
@@ -32,7 +32,7 @@ https://github.com/kmptdev/jobs
 
 ## Current and Past Vacancies
 
-|Ref |Job | Start Date | Band | Applications Open | Job Location | Contact |
+|Ref|Job | Start Date | Band | Applications Open | Job Location | Contact |
 |------|------|------|--|----|----|----|
-|[2928255](http://kentmedway.healthjobsuk.com/vacancy/2928255)|[Senior Software Developer](2021/senior-software-developer.md)|xx/xx/2021|7|xx/xx/2021|Sittingborne, Kent|[Chat](mailto:kmpt.jointhedevteam@nhs.net) |
-|[2928255](http://kentmedway.healthjobsuk.com/vacancy/2928255)|[Senior Software Developer](2021/senior-software-developer.md)|xx/xx/2021|7|xx/xx/2021|Sittingborne, Kent|[Chat](mailto:kmpt.jointhedevteam@nhs.net)  |
+|[2928255](http://kentmedway.healthjobsuk.com/vacancy/2928255)|[Senior Software Developer](2021/senior-software-developer.md)|TBC|7|01/03/2021|Sittingborne, Kent|[Chat](mailto:kmpt.jointhedevteam@nhs.net) |
+|[2928255](http://kentmedway.healthjobsuk.com/vacancy/2928255)|[Senior Software Developer](2021/senior-software-developer.md)|TBC|7|01/03/2021|Sittingborne, Kent|[Chat](mailto:kmpt.jointhedevteam@nhs.net) |
