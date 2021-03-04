@@ -30,6 +30,8 @@ https://twitter.com/kmptdev
 
 https://github.com/kmptdev/jobs
 
+[kmpt.jointhedevteam@nhs.net](mailto:kmpt.jointhedevteam@nhs.net)
+
 ## Current and Past Vacancies
 
 |Ref|Job | Start Date | Band | Applications Open | Job Location | Contact |
