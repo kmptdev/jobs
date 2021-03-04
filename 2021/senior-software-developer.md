@@ -8,6 +8,8 @@ Kent and Medway NHS and Social Care Partnership Trust<br/>Software Development T
 |Post Application Deadline Date | 31/03/2021 |
 |Interviews After Date | TBC |
 |Post Start Date | TBC |
+|Job Spec|[Download Job Description](https://feeds.trac.jobs/documents?vdoc=4739023)|
+|Contact Us|[kmpt.jointhedevteam@nhs.net](mailto:kmpt.jointhedevteam@nhs.net)|
 
 # Senior Software Developer - Join our growing team!
 
