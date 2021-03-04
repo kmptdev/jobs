@@ -1,7 +1,7 @@
 # Senior Software Developer : 2 Vacancies Available
-Kent and Medway NHS and Social Care Partnership Trust<br/>Software Development Team
+Kent and Medway NHS and Social Care Partnership Trust
+Software Development Team
 
-## Key Dates
 |||
 |-|-|
 |Post Advertised | 01/03/2021 |
