@@ -5,8 +5,8 @@ Kent and Medway NHS and Social Care Partnership Trust
 
 |Apply Now |Job | Start Date | Band | Applications Open | Job Location | Contact |
 |------|------|------|--|----|----|----|
-|[2928255](http://kentmedway.healthjobsuk.com/vacancy/2928255)|[Senior Software Developer](2021/senior-software-developer.md)|TBC|7|01/03/2021|Sittingborne, Kent|[Chat](mailto:kmpt.jointhedevteam@nhs.net) |
-|[2928255](http://kentmedway.healthjobsuk.com/vacancy/2928255)|[Senior Software Developer](2021/senior-software-developer.md)|TBC|7|01/03/2021|Sittingborne, Kent|[Chat](mailto:kmpt.jointhedevteam@nhs.net) |
+|[3270457](https://www.kmpt.nhs.uk/about-us/careers/our-vacancies/#!/job/UK/Kent/Sittingbourne/Kent_Medway_NHS_Social_Care_Partnership_Trust/Corporate_Software_Developer/Corporate_Software_Developer-v3270457?_ts=6619)|[ Software Developer](https://www.kmpt.nhs.uk/about-us/careers/our-vacancies/#!/job/UK/Kent/Sittingbourne/Kent_Medway_NHS_Social_Care_Partnership_Trust/Corporate_Software_Developer/Corporate_Software_Developer-v3270457?_ts=6619)|TBC|6|01/07/2021|Sittingborne, Kent|[Chat](mailto:kmpt.jointhedevteam@nhs.net) |
+|[3224258](https://www.kmpt.nhs.uk/about-us/careers/our-vacancies/#!/job/UK/Kent/Sittingbourne/Kent_Medway_NHS_Social_Care_Partnership_Trust/Apprentice_Corporate/Apprentice_Corporate-v3224258?_ts=1)|[Apprentice Software Developer](https://www.kmpt.nhs.uk/about-us/careers/our-vacancies/#!/job/UK/Kent/Sittingbourne/Kent_Medway_NHS_Social_Care_Partnership_Trust/Apprentice_Corporate/Apprentice_Corporate-v3224258?_ts=1)|TBC|6|01/07/2021|Sittingborne, Kent|[Chat](mailto:kmpt.jointhedevteam@nhs.net) |
 
 ## Why work in KMPT Dev Team?
 
@@ -32,7 +32,7 @@ https://github.com/kmptdev/jobs
 
 [kmpt.jointhedevteam@nhs.net](mailto:kmpt.jointhedevteam@nhs.net)
 
-## Current and Past Vacancies
+## Past Vacancies
 
 |Ref|Job | Start Date | Band | Applications Open | Job Location | Contact |
 |------|------|------|--|----|----|----|
